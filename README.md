@@ -2,9 +2,13 @@
   🌸 Ayesha's Web Development Journey 🌸
 </h1>
 
+
+
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=F38FFF&center=true&vCenter=true&width=500&lines=Frontend+Developer+%F0%9F%92%BB;Continuous+Learner+🌱;Creative+Web+Designer+🎨;Building+My+Dream+Career+💫" alt="Typing animation" />
+  <img src="https://github.com/ayeshhdeveloper55/Ayesha-Learning-Journey-Web-and-App-Development./blob/main/ppp.PNG?raw=true" alt="Ayesha's Banner" width="850" />
 </p>
+
+
 
 ---
 
